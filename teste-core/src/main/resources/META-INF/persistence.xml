@@ -3,7 +3,6 @@
 	<persistence-unit name="teste-core" transaction-type="JTA">
 		<class>br.ccb.com.entity.ParametroDTO</class>
 		<class>br.ccb.com.entity.ParametroValorDTO</class>
-		<class>br.ccb.com.bean.Movie</class>
 		<properties></properties>
 	</persistence-unit>
 </persistence>

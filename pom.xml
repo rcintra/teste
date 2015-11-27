@@ -12,7 +12,6 @@
     <module>teste-web</module>
     <module>teste-ejb</module>
     <module>teste-util</module>
-    <module>teste-persistence</module>
     <module>teste-core</module>
   </modules>
   <properties>

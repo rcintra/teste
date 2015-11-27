@@ -10,7 +10,7 @@ import javax.persistence.*;
  */
 @Entity
 @Table(name="PRM_SIS_VAL")
-@NamedQuery(name="findAll", query="SELECT p FROM ParametroValorDTO p")
+@NamedQuery(name="ParametroValorDTO.findAll", query="SELECT p FROM ParametroValorDTO p")
 public class ParametroValorDTO implements Serializable {
 	private static final long serialVersionUID = 1L;
 
